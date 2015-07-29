@@ -1,6 +1,6 @@
 # mini-registry
 
-Now, the official registry is too large.
+Now, the official registry is too large.    
 This project is aim to build a smallest registry docker images.
 
 ##### Usage:  
